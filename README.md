@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kako104
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning using programs ilke wrishark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kaand5860@gmail.com
 - 😄 Pronouns: ...
